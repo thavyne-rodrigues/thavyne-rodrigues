@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá! Eu sou a Thávyne Rodrigues 👋
 
-<!--
-**thavyne-rodrigues/thavyne-rodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Gestão da Tecnologia da Informação  
+🎓 Técnica em Informática pelo IFTO  
+🚀 Desenvolvedora Web em formação
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante de Gestão da Tecnologia da Informação e Técnica em Informática.
+Tenho interesse em desenvolvimento de software e estou buscando aprimorar
+meus conhecimentos na criação de aplicações web.
+
+Atualmente, estou focada em aprender e praticar desenvolvimento Front-end
+e Back-end, construindo projetos para meu portfólio.
+
+## Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+
+## Projetos
+
+- **Cyber Coffee:** projeto acadêmico de um site com temática gamer.
+- **Site de apoio aos animais:** projeto desenvolvido durante minha formação técnica.
+- **Organiza:** projeto pessoal em desenvolvimento, voltado à organização de tarefas e estudos.
+
+## Objetivo
+
+Meu objetivo é conquistar uma oportunidade de estágio em desenvolvimento
+de software, aprender com profissionais da área e evoluir como desenvolvedora.
+
+## Contato
+
+- [LinkedIn](https://linkedin.com/in/thavyne-rodrigues)
+- [GitHub](https://github.com/thavyne-rodrigues)
+- E-mail: thavynerodrigues48@gmail.com
